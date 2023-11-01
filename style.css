@@ -150,6 +150,11 @@ a {
     margin: 15px 0 30px;
     color: #696b79;
 }
+.desktop-androidDownLink, .desktop-iOSDownLink {
+    margin-right: 10px;
+    height: 42px;
+}
+
 @media (max-width: 450px) { 
 .search {
     width: 72vw; 
